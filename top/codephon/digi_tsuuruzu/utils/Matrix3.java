@@ -6,10 +6,6 @@ public class Matrix3 {
     public Vector3[] rows;
     int size;
 
-    public static AxisAlignedBB getAABB(double minX, double minY, double minZ, double maxX, double maxY, double maxZ) {
-        return new AxisAlignedBB(minX, minY, minZ, maxX, maxY, maxZ);
-    }
-
     public Matrix3() {
         this.rows = new Vector3[3];
         this.size = 3;
@@ -18,21 +14,10 @@ public class Matrix3 {
         this.rows[2] = Vector3.getNewVector();
     }
 
-
-    public Vector3 get(int i) {
-        assert i < 3;
-
-        return this.rows[i];
-    }
-
-    public double get(int i, int j) {
-        assert i < 3;
-
-        return this.rows[i].get(j);
-    }
-
+    //数码宝贝模组为“闭源”，故不会在此公开用于辅助数码宝贝拓展模组开发的内容，这确实的很可惜的~
+        
     public String toString() {
-        String eol = System.getProperty("line.separator");
+        //数码宝贝模组为“闭源”，故不会在此公开用于辅助数码宝贝拓展模组开发的内容，这确实的很可惜的~
         return eol + "0: " + this.rows[0].toString() + eol + "1: " + this.rows[1].toString() + eol + "2 : " + this.rows[2].toString();
     }
 }
