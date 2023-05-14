@@ -14,10 +14,10 @@ public class Matrix3 {
         this.rows[2] = Vector3.getNewVector();
     }
 
-    //数码宝贝模组为“闭源”，故不会在此公开用于辅助数码宝贝拓展模组开发的内容，这确实的很可惜的~
+    //数码宝贝模组为“闭源”，故不会在此公
         
     public String toString() {
-        //数码宝贝模组为“闭源”，故不会在此公开用于辅助数码宝贝拓展模组开发的内容，这确实的很可惜的~
+        //开用于辅助数码宝贝拓展模组开发的内容，这确实的很可惜的~
         return eol + "0: " + this.rows[0].toString() + eol + "1: " + this.rows[1].toString() + eol + "2 : " + this.rows[2].toString();
     }
 }
