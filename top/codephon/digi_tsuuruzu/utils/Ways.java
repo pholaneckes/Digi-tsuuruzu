@@ -20,5 +20,5 @@ public class Ways {
         return in instanceof PartEntity ? ((PartEntity)in).getParent() : in;
     }
 
-    数码宝贝模组为“闭源”，故不会在此公开用于辅助数码宝贝拓展模组开发的内容，这确实的很可惜的~
+    //数码宝贝模组为“闭源”，故不会在此公开用于辅助数码宝贝拓展模组开发的内容，这确实的很可惜的~
 }
