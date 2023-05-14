@@ -1,0 +1,69 @@
+{
+  "key.dtr" : "DTR",
+  "key.digi_tsuuruzu.open_fulldata": "打开全览数据界面",
+  "dtr.stats.gui": "全部数据",
+  "dtr.stats.pAtt": "攻击性格属值",
+  "dtr.stats.pSAtt": "特攻性格属值",
+  "dtr.stats.pDef": "防御性格属值",
+  "dtr.stats.pSDef": "特防性格属值",
+  "dtr.stats.pLuk": "幸运性格属值",
+  "dtr.stats.pSpe": "速度性格属值",
+  "dtr.stats.pHP": "生命性格属值",
+  "dtr.stats.pEG": "能量性格属值",
+  "dtr.stats.name": "种类",
+  "dtr.stats.nick": "昵称",
+
+  "dtr.stats.sAtt": "攻击兽种属值",
+  "dtr.stats.sSAtt": "特攻兽种属值",
+  "dtr.stats.sDef": "防御兽种属值",
+  "dtr.stats.sSDef": "特防兽种属值",
+  "dtr.stats.sLuk": "幸运兽种属值",
+  "dtr.stats.sSpe": "速度兽种属值",
+  "dtr.stats.sHP": "生命兽种属值",
+  "dtr.stats.sEG": "能量兽种属值",
+
+  "dtr.stats.eg": "能量 现/总",
+  "dtr.stats.hp": "生命 现/总",
+  "dtr.stats.age": "兽龄",
+
+  "dtr.stats.xgene": "X抗体基因序列",
+  "dtr.stats.sizegene": "体型基因序列",
+  "dtr.stats.colorgene": "着色基因序列",
+  "dtr.stats.attrigene": "种类基因序列",
+  "dtr.stats.typegene": "属性基因序列",
+
+
+
+  "gui.button.evo": "览进化线",
+  "gui.button.fuldata": "览数据",
+  "gui.button.evoback": "返回上级",
+  "gui.button.evoadd": "添加/更替线",
+  "gui.button.kong": "修改禁止",
+  "dtr.gui.edit": "编辑",
+
+  "dtr.stats.vcolor": "宠物机颜色",
+
+  "danwei.s": "刻",
+
+  "msg.dtr.noPress": "§1权限不足！！",
+
+  "entity.digimobs.": "空留",
+
+  "dtr.color.black": "黑",
+  "dtr.color.white": "白",
+  "dtr.color.red": "红",
+  "dtr.color.Green": "绿",
+  "dtr.color.brown": "棕",
+  "dtr.color.blue": "靛",
+  "dtr.color.Purple": "青",
+  "dtr.color.silver": "银",
+  "dtr.color.gray": "灰",
+  "dtr.color.pink": "粉",
+  "dtr.color.lightblue": "蓝",
+  "dtr.color.yellow": "黄",
+  "dtr.color.lime": "酸",
+  "dtr.color.magenta": "品",
+  "dtr.color.orange": "橙",
+  "dtr.color.pokeball": "宝可",
+  "dtr.color.chushi": "常"
+}

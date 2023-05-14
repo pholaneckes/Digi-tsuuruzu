@@ -1,0 +1,68 @@
+{
+  "key.dtr" : "Digi TSUURUZU",
+  "key.digi_tsuuruzu.open_fulldata": "Open full data screen",
+  "dtr.stats.gui": "Digi All Stats",
+  "dtr.stats.pAtt": "Attack pers.stat",
+  "dtr.stats.pSAtt": "S.Att pers.stat",
+  "dtr.stats.pDef": "Defence pers.stat",
+  "dtr.stats.pSDef": "S.Def pers.stat",
+  "dtr.stats.pLuk": "Luck pers.stat",
+  "dtr.stats.pSpe": "Speed pers.stat",
+  "dtr.stats.pHP": "Health pers.stat",
+  "dtr.stats.pEG": "Energy pers.stat",
+  "dtr.stats.name": "Type Name",
+  "dtr.stats.nick": "Nick Name",
+
+  "dtr.stats.sAtt": "Attack spec.stat",
+  "dtr.stats.sSAtt": "S.Att spec.stat",
+  "dtr.stats.sDef": "Defence spec.stat",
+  "dtr.stats.sSDef": "S.Def spec.stat",
+  "dtr.stats.sLuk": "Luck spec.stat",
+  "dtr.stats.sSpe": "Speed spec.stat",
+  "dtr.stats.sHP": "Health spec.stat",
+  "dtr.stats.sEG": "Energy spec.stat",
+
+  "dtr.stats.eg": "EG now/MAX",
+  "dtr.stats.hp": "HP now/MAX",
+  "dtr.stats.age": "Age",
+
+  "dtr.stats.xgene": "X-ANTI ALL.GENE",
+  "dtr.stats.sizegene": "SIZE ALL.GENE",
+  "dtr.stats.colorgene": "COLOR ALL.GENE",
+  "dtr.stats.attrigene": "ATTRIBUTE ALL.GENE",
+  "dtr.stats.typegene": "TYPE ALL.GENE",
+
+
+  "gui.button.evo": "View Evo. Line",
+  "gui.button.fuldata": "View Full Data",
+  "gui.button.evoback": "Back",
+  "gui.button.evoadd": "Add/Change Line",
+  "gui.button.kong": "Cannot change",
+  "dtr.gui.edit": "Edit",
+
+  "dtr.stats.vcolor": "Vpet Color",
+
+  "danwei.s": "tick",
+
+  "msg.dtr.noPress": "§1Has NO Permission!!!",
+
+  "entity.digimobs.": "None",
+
+  "dtr.color.black": "Black",
+  "dtr.color.white": "White",
+  "dtr.color.red": "Red",
+  "dtr.color.Green": "Green",
+  "dtr.color.brown": "Brown",
+  "dtr.color.blue": "Blue",
+  "dtr.color.Purple": "Cyan",
+  "dtr.color.silver": "Sliver",
+  "dtr.color.gray": "Gray",
+  "dtr.color.pink": "Pink",
+  "dtr.color.lightblue": "LightBlue",
+  "dtr.color.yellow": "Yellow",
+  "dtr.color.lime": "Lime",
+  "dtr.color.magenta": "Magenta",
+  "dtr.color.orange": "Orange",
+  "dtr.color.pokeball": "Poke-ball",
+  "dtr.color.chushi": "Normal"
+}
