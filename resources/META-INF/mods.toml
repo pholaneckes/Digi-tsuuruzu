@@ -38,14 +38,14 @@ Some little tools for the mod Digimobs.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 
-[[mods]]
+[[dependencies.digi_tsuuruzu]]
 modId="digimobs"
-version="2.2.3"
+mandatory=true
+versionRange="[2.2.3,)"
 displayName="Digimobs"
 authors="Cyan"
-description='''
-    TBD
-    '''
+ordering="NONE"
+side="BOTH"
 
 [[dependencies.digi_tsuuruzu]] #optional
     # the modid of the dependency
